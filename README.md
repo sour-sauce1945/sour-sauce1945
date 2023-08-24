@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sour-sauce1945
+- 👋 Hi, I’m Jayesh Abhijit Deshmukh
 - 👀 I’m interested in creating projects
 - 🌱 I’m currently learning python & C++
 - 💞️ I’m looking to collaborate on data science projects
