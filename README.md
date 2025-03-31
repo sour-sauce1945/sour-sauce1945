@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Jayesh Abhijit Deshmukh
-- 👀 I’m interested in creating projects
-- 🌱 I’m currently learning Javascipt & C++
-- 📫 How to reach me jayeshdeshmukh509@gmail.com
+ Hi, I’m Jayesh Deshmukh
+ I create machine learnign projects and deploy them !
+ for collaboration reach out by emailing me on @jayeshdeshmukh509@gmail.com
 
 <!---
 sour-sauce1945/sour-sauce1945 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
